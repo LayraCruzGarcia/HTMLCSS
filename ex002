@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,10 +11,7 @@
     <h1>Parágrafos e quebras de linhas</h1>
     <hr>
     <p>Você pode escrever
-        um parágrafo de<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset= 
+        um parágrafo de
         qualquer jeito. 
         Basta colocar tudo
          no meio 
